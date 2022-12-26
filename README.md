@@ -7,7 +7,7 @@ TRAMO is a Live Streaming Chat with Different people over all the world
 ## Table of contents
 - ### [main packages used](https://github.com/omar201999/TRAMO-Random-Chat-Gifts/blob/main/README.md#main-packages-used-1)
 - ### [Folder structure](https://github.com/omar201999/TRAMO-Random-Chat-Gifts/blob/main/README.md#folder-structure-1)
-- ### [Video](https://github.com/omar201999/TRAMO-Random-Chat-Giftsy/blob/main/README.md#video-1)
+- ### [Video](https://github.com/omar201999/TRAMO-Random-Chat-Giftsy/blob/main/README.md#Video-1)
 - ### [Google Play Store](https://github.com/omar201999/TRAMO-Random-Chat-Gifts/blob/main/README.md#google-play-store-1)
 
 ## Main packages used
