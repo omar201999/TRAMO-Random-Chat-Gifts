@@ -102,4 +102,4 @@ https://www.youtube.com/watch?v=ogE4x1ReLTU
 
 ## Google Play Store
 
-Soon
+https://play.google.com/store/apps/details?id=com.kanshil.halahal
